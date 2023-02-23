@@ -1,0 +1,110 @@
+h1{
+  margin-left: 15%;
+  margin-bottom: 2%;
+  padding: 1%;
+  background-color: #E16767;
+
+  color: white;
+  font-weight: bold;
+}
+
+h5{
+  margin-right: 15%;
+  margin-bottom: 7%;
+  padding: 1%;
+  background-color: #E16767;
+
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.article{
+  display: flex;
+  margin-bottom: 6%;
+  justify-content: space-around;
+}
+img{
+  margin-left: 3%;
+}
+
+
+p{
+  margin-left: 15%;
+  margin-bottom: 3%;
+  font-size: 20px;
+}
+h2{
+  margin-left: 15%;
+  margin-bottom: 3%;
+
+  color: #E16767;
+  font-weight: bold;
+}
+
+.flex_title{
+  display: flex;
+  background-color: #E16767;
+  color: white;
+
+  width: 100%;
+  padding-left: 1%;
+  padding-top: 1%;
+  border-radius: 15px 15px 0px 0px;
+
+  cursor: pointer;
+}
+#title_icon{
+  color: white;
+}
+#element_title{
+  padding-left: 1%;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+
+.flex_element{
+  display: flex;
+  background-color: white;
+
+  width: 100%;
+  border-left: 5px solid #E16767;
+  border-right: 5px solid #E16767;
+
+  cursor: pointer;
+}
+#address_icon{
+  padding-left: 3%;
+  padding-top: 1%;
+}
+#element_address{
+  padding-left: 1%;
+  padding-top: 1%;
+  font-size: 20px;
+}
+
+
+.flex_last{
+  display: flex;
+  background-color: white;
+
+  width: 100%;
+  border-left: 5px solid #E16767;
+  border-right: 5px solid #E16767;
+  border-bottom: 5px solid #E16767;
+  border-radius: 0px 0px 15px 15px;
+
+  margin-bottom: 3%;
+
+  cursor: pointer;
+}
+#phone_icon{
+  padding-left: 3%;
+  padding-top: 1%;
+}
+#element_phone{
+  padding-left: 1%;
+  padding-top: 1%;
+  font-size: 20px;
+}

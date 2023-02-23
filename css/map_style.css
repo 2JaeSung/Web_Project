@@ -1,0 +1,30 @@
+h1{
+  margin-bottom: 1%;
+  padding: 1%;
+  background-color: #E16767;
+  font-size: 25px;
+
+  color: white;
+  font-weight: bold;
+}
+
+h2{
+  color: #E16767;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.buttons{
+  display: flex;
+}
+
+.control-btn{
+  background-color: #E16767;
+  width: 17%;
+  height: 15%;
+  border-color: white;
+
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
